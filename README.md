@@ -14,7 +14,7 @@
     - Create, like, comment a post
     - Follow and unfollow other users
     - Profile view, Other users profile view
-    - Add bio
+    - Add bio, edit bio
     - View followers and following count in the profile
     - I will add more functionalities in this project in future.
    
